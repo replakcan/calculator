@@ -69,6 +69,9 @@ body {
   width: 100%;
   color: orange;
   background-color: rgb(67, 139, 0);
+  border-style: ridge;
+  border-width: .1rem;
+  border-color: black;
 }
 
 .number-item {
@@ -76,4 +79,7 @@ body {
   width: 32%;
   color: wheat;
   background-color: brown;
+  border-style: ridge;
+  border-width: .1rem;
+  border-color: black;
 }
