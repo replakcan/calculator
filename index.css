@@ -32,6 +32,7 @@ body {
   width: 100%;
   padding: 1rem;
   background-color: lightgray;
+  border-bottom: solid;
 }
 
 .btn-container {
