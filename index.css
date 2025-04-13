@@ -43,10 +43,18 @@ body {
 
 .number-container {
   grid-area: 1 / 1 / 5 / 4;
+  padding: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.1rem;
 }
 
 .operator-container {
   grid-area: 1 / 4 / 5 / 5;
+  padding: 0.5rem 0.5rem 0.5rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
 }
 
 .helper-operation {
