@@ -16,6 +16,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 1rem;
+  background-color: goldenrod;
 }
 
 .calculator {
@@ -49,13 +50,19 @@ body {
 
 .helper-operation {
   width: 33.3%;
+  color: brown;
+  background-color: wheat;
 }
 
 .operator-item {
   width: 100%;
+  color: orange;
+  background-color: rgb(67, 139, 0);
 }
 
 .number-item {
   width: 33.3%;
   height: 25%;
+  color: wheat;
+  background-color: brown;
 }
