@@ -59,7 +59,7 @@ body {
 
 .helper-operation {
   font-weight: bold;
-  width: 33.3%;
+  width: 32%;
   color: brown;
   background-color: wheat;
 }
@@ -73,8 +73,7 @@ body {
 
 .number-item {
   font-weight: bold;
-  width: 33.3%;
-  height: 25%;
+  width: 32%;
   color: wheat;
   background-color: brown;
 }
