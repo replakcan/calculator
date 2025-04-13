@@ -49,18 +49,21 @@ body {
 }
 
 .helper-operation {
+  font-weight: bold;
   width: 33.3%;
   color: brown;
   background-color: wheat;
 }
 
 .operator-item {
+  font-weight: bold;
   width: 100%;
   color: orange;
   background-color: rgb(67, 139, 0);
 }
 
 .number-item {
+  font-weight: bold;
   width: 33.3%;
   height: 25%;
   color: wheat;
