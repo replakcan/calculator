@@ -19,6 +19,14 @@ body {
   background-color: goldenrod;
 }
 
+button {
+  font-weight: bold;
+  border-style: outset;
+  border-width: 0.25rem;
+  border-color: black;
+}
+
+
 .calculator {
   display: flex;
   flex-direction: column;
@@ -59,28 +67,19 @@ body {
 }
 
 .helper-operation {
-  font-weight: bold;
   width: 32%;
   color: brown;
   background-color: wheat;
 }
 
 .operator-item {
-  font-weight: bold;
   width: 100%;
   color: orange;
   background-color: rgb(67, 139, 0);
-  border-style: ridge;
-  border-width: .1rem;
-  border-color: black;
 }
 
 .number-item {
-  font-weight: bold;
   width: 32%;
   color: wheat;
   background-color: brown;
-  border-style: ridge;
-  border-width: .1rem;
-  border-color: black;
 }
