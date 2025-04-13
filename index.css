@@ -8,7 +8,6 @@
   margin: 0;
   padding: 0;
   font: inherit;
-  border-color: rgb(172, 90, 172);
 }
 
 body {
@@ -20,8 +19,8 @@ body {
 }
 
 .calculator {
-  width: 300px;
   display: flex;
+  width: 300px;
   flex-direction: column;
   border: solid;
 }
