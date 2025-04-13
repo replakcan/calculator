@@ -82,6 +82,13 @@ helperOperations.map((helperOp) => {
       num2 = ''
 
       rv.textContent = memory
+    } else {
+      num1 = ''
+      num2 = ''
+      operator = ''
+      memory = null
+
+      rv.textContent = 0
     }
   })
 
