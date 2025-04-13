@@ -69,7 +69,7 @@ mathOperators.map((o) => {
   operatorContainer.appendChild(btn)
 })
 
-helperOperations.map((helperOp) => {
+helperOperators.map((helperOp) => {
   const btn = document.createElement('button')
   btn.classList.add('helper-operation')
   btn.textContent = helperOp
