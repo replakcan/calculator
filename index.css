@@ -26,6 +26,9 @@ button {
   border-color: black;
 }
 
+button:active {
+  border-style: inset;
+}
 
 .calculator {
   display: flex;
